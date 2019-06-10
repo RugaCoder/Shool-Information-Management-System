@@ -18,6 +18,6 @@ These students are
 2.Emmanuel Julius https://github.com/juliemmasam
 3.Aziz Moiz https://github.com/azizMoiz
 4.Antony Elias https://github.com/MasterTony04
-5.Frances Ruganyumisa https://github.com/orgs/iCodeCoict/people/RugaCoder
+5.Frances Ruganyumisa https://github.com/RugaCoder
 
 ## We welcome anyone to contribute anything
